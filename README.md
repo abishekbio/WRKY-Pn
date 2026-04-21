@@ -6,21 +6,21 @@ The study focuses on identifying WRKY transcription factors and analyzing their 
 
 To identify and functionally characterize the WRKY gene family in Piper nigrum using genome-wide bioinformatics approaches.
 
-🔬 Objectives
-Genome retrieval and repeat masking
-Gene prediction and WRKY identification
-Motif and domain analysis
-Phylogenetic analysis of WRKY genes
-Functional classification of WRKY clusters
+🔬 Objectives  
+Genome retrieval and repeat masking  
+Gene prediction and WRKY identification  
+Motif and domain analysis  
+Phylogenetic analysis of WRKY genes  
+Functional classification of WRKY clusters  
 
-🧬 Key Highlights
-Identified multiple WRKY genes grouped into clusters
-Confirmed conserved WRKYGQK domain and zinc finger motifs
+🧬 Key Highlights  
+Identified multiple WRKY genes grouped into clusters  
+Confirmed conserved WRKYGQK domain and zinc finger motifs  
 
 Revealed roles in:
-🌿 Plant growth and development
-🛡️ Biotic stress (pathogens)
-🌡️ Abiotic stress (drought, salinity)    
+🌿 Plant growth and development  
+🛡️ Biotic stress (pathogens)  
+🌡️ Abiotic stress (drought, salinity)      
 
 🧪 Methodology Workflow
 Genome retrieval from NCBI
