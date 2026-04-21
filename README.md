@@ -22,33 +22,33 @@ Revealed roles in:
 🛡️ Biotic stress (pathogens)  
 🌡️ Abiotic stress (drought, salinity)      
 
-🧪 Methodology Workflow
-Genome retrieval from NCBI
-Repeat identification using RepeatModeler & RepeatMasker
-Gene prediction using AUGUSTUS
-WRKY identification using HMMER
-Sequence alignment using MAFFT
-Phylogenetic analysis using RAxML
-Motif analysis using MEME
-Gene structure visualization using GSDS
+🧪 Methodology Workflow  
+Genome retrieval from NCBI  
+Repeat identification using RepeatModeler & RepeatMasker  
+Gene prediction using AUGUSTUS  
+WRKY identification using HMMER  
+Sequence alignment using MAFFT  
+Phylogenetic analysis using RAxML  
+Motif analysis using MEME  
+Gene structure visualization using GSDS  
 
-🛠️ Tools & Technologies
-Databases: NCBI, UniProt
-Sequence Tools: BLAST, SeqKit
-Gene Prediction: AUGUSTUS
-Alignment: MAFFT
-HMM Analysis: HMMER
-Phylogeny: RAxML, iTOL
-Motif Analysis: MEME Suite
-Visualization: GSDS
+🛠️ Tools & Technologies  
+Databases: NCBI, UniProt  
+Sequence Tools: BLAST, SeqKit  
+Gene Prediction: AUGUSTUS  
+Alignment: MAFFT  
+HMM Analysis: HMMER  
+Phylogeny: RAxML, iTOL  
+Motif Analysis: MEME Suite  
+Visualization: GSDS  
 
-📊 Results Summary
-WRKY genes classified into multiple clusters
-Conserved motifs identified across gene families
-Functional roles linked to stress tolerance and metabolism
-Phylogenetic analysis showed evolutionary relationships
-🌍 Significance of Study
+📊 Results Summary  
+WRKY genes classified into multiple clusters    
+Conserved motifs identified across gene families  
+Functional roles linked to stress tolerance and metabolism  
+Phylogenetic analysis showed evolutionary relationships  
 
-Helps understand stress tolerance mechanisms in black pepper
-Supports crop improvement strategies
-Provides a foundation for functional genomics research
+🌍 Significance of Study  
+Helps understand stress tolerance mechanisms in black pepper  
+Supports crop improvement strategies  
+Provides a foundation for functional genomics research  
